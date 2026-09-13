@@ -44,6 +44,7 @@ CrossRefPorts=3
 CrossRefCrossSheets=1
 CrossRefSheetEntries=0
 CrossRefFollowFromMainSettings=1
+CurrentVariant=Original
 
 [Preferences]
 PrefsVaultGUID=
@@ -99,6 +100,16 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=GAWRWKQA
+
+[ProjectVariant1]
+UniqueId=e8fce3c0-366c-43c2-a44e-8a1323f68a3e
+Description=Original
+AllowFabrication=0
+ParameterCount=0
+VariationCount=2
+Variation1=Designator=R?|UniqueId=\HJRGZJKG|Kind=0|AlternatePart=
+Variation2=Designator=R?|UniqueId=\KEEEYJXC|Kind=1|AlternatePart=
+ParamVariationCount=0
 
 [GeneratedDocument1]
 DocumentPath=Project Outputs for AudioMonitor\Design Rule Check - AudioMonitor_PCB.html
