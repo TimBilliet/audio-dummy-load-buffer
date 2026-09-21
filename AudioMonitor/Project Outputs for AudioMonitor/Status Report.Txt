@@ -1,0 +1,22 @@
+Output: Gerber X2 Files
+Type  : GerberX2
+From  : Variant [[No Variations]] of Project [AudioMonitor.PrjPcb]
+   Generated File[AudioMonitor_PCB_Copper_Signal_Top.gbr]
+   Generated File[AudioMonitor_PCB_Copper_Signal_Bot.gbr]
+   Generated File[AudioMonitor_PCB_Legend_Top.gbr]
+   Generated File[AudioMonitor_PCB_Legend_Bot.gbr]
+   Generated File[AudioMonitor_PCB_Soldermask_Top.gbr]
+   Generated File[AudioMonitor_PCB_Soldermask_Bot.gbr]
+   Generated File[AudioMonitor_PCB_Paste_Top.gbr]
+   Generated File[AudioMonitor_PCB_Paste_Bot.gbr]
+   Generated File[AudioMonitor_PCB_Profile.gbr]
+   Generated File[AudioMonitor_PCB_NPTH_Drill.gbr]
+   Generated File[AudioMonitor_PCB_PTH_Drill.gbr]
+   Generated File[AudioMonitor_PCB.EXTREP]
+   Generated File[AudioMonitor_PCB.REP]
+
+
+Files Generated   : 13
+Documents Printed : 0
+
+Finished Output Generation At 21:37:14 On 21/09/2026
