@@ -1,0 +1,7 @@
+Removed Pin From Net: NetName=+VBIAS Pin=C7-1
+Removed Pin From Net: NetName=GND Pin=C9-2
+Removed Member From Class: ClassName=AudioMonitor_Schem Member=C9
+Added Pin To Net: NetName=NetC7_1 Pin=C7-1
+Added Pin To Net: NetName=NetC7_1 Pin=R5-1
+Added Net: Name=NetC7_1
+Added Member To Class: ClassName=AudioMonitor_Schem Member=Component C3 AISHI CE-10/50PHT-Y
