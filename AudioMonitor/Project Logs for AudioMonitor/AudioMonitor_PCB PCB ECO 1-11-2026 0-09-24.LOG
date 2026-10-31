@@ -1,0 +1,5 @@
+Removed Pin From Net: NetName=NetC5_1 Pin=R8-2
+Removed Pin From Net: NetName=NetC3_1 Pin=R11-1
+Removed Member From Class: ClassName=AudioMonitor_Schem Member=R8
+Removed Member From Class: ClassName=AudioMonitor_Schem Member=R11
+Added Pin To Net: NetName=NetC3_1 Pin=R2-2

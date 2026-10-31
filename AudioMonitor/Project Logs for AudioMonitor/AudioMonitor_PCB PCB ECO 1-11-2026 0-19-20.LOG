@@ -1,0 +1,10 @@
+Removed Pin From Net: NetName=NetC5_2 Pin=J3-2
+Removed Pin From Net: NetName=NetC5_1 Pin=R3-1
+Removed Pin From Net: NetName=NetC5_1 Pin=R6-2
+Change Component Footprint: Designator=C5 Old Footprint=CAPAE1360X1450N New Footprint=FP-FTG-MFG
+Change Component Comment : Designator=C5 Old Comment=1000µF 25V New Comment=680µF 35V
+Change Managed Component Library Link : Designator=C5 Old VaultGUID= New VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 Old ItemGUID= New ItemGUID=3B432994-A57C-4F41-97C5-242E1A0ADD20 Old RevisionGUID= New RevisionGUID=1B9E637E-1DEE-4595-AFFB-F3462FD4FFE2
+Change component parameters: Designator = "C5" ("C5"); Footprint = "CAPAE1360X1450N"; UniqueID = "\AFDLVGDL" ("\AFDLVGDL")
+Added Pin To Net: NetName=NetC5_1 Pin=J3-2
+Added Pin To Net: NetName=NetC5_2 Pin=R3-1
+Added Pin To Net: NetName=NetC5_2 Pin=R6-2

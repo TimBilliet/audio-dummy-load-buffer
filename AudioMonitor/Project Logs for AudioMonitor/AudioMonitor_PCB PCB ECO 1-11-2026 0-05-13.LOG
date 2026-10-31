@@ -1,0 +1,11 @@
+Change Component Footprint: Designator=C5 Old Footprint=Wurth D6.3x7.7mm New Footprint=CAPAE1360X1450N
+Change Component Comment : Designator=C5 Old Comment=ROQANG RVT1V101M0607 New Comment=1000µF 25V
+Change component parameters: Designator = "C5" ("C5"); Footprint = "Wurth D6.3x7.7mm"; UniqueID = "\QGCBCLPL" ("\QGCBCLPL")
+Change component parameters (AddParameter): Name = "Arrow Part Number"; Value = "UCD1E102MNQ1MS"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/ucd1e102mnq1ms/nichicon"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet Link"; Value = "http://nichicon-us.com/english/products/pdfs/e-ucd.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "14.5mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Name"; Value = "Nichicon"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "UCD1E102MNQ1MS"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Part Number"; Value = "647-UCD1E102MNQ1MS"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Nichicon/UCD1E102MNQ1MS?qs=CjLBVBdJVbR1luyqJoZRIw%3D%3D"; VariantName = "[No Variations]"
